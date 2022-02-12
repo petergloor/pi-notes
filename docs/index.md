@@ -1,36 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Pi Notes GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/petergloor/more/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I currently use this repository for some personal notes I take while exploring some technologies, mostly around Raspberry Pi. Often I write things down in my native language, which is German. In cases where it’s easier I will use English as well. What’s written here are just private notes, not necessarily accurate or true.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zur Zeit benutze ich diese Ablage für ein paar persönliche Notizen die ich während der Erkundigung einiger Technologien im Umfeld von Raspberry Pi festhalte. Meistens schreibe ich diese Notizen in meiner deutschen Muttersprache. Wenn es einfacher ist, dann benutze ich auch English. Was hier geschrieben steht sind rein private Notizen, die nicht unbedingt genau oder richtig sind.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petergloor/more/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Meine Pi's: 1 x Zero, 1 x Pi 1, 2 x Pi 2 Model B, 2 x Pi 3 Model B._
 
 ### Support or Contact
 

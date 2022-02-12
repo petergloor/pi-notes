@@ -4,6 +4,6 @@ I currently use this repository for some personal notes I take while exploring s
 
 Zur Zeit benutze ich diese Ablage für ein paar persönliche Notizen die ich während der Erkundigung einiger Technologien im Umfeld von Raspberry Pi festhalte. Meistens schreibe ich diese Notizen in meiner deutschen Muttersprache. Wenn es einfacher ist, dann benutze ich auch English. Was hier geschrieben steht sind rein private Notizen, die nicht unbedingt genau oder richtig sind.
 
-_Meine Pi's: 1 x Pi Zero, 1 x Pi 1 Model A (256 MB RAM), 2 x Pi 2 Model B, 2 x Pi 3 Model B._
-
-_Mein OS: Ich benutze am liebsten das neuste Raspberry Pi OS Lite._
+###### _____________________________________________________________________________________________
+###### _Meine Pi's: 1 x Pi Zero, 1 x Pi 1 Model A (256 MB RAM), 2 x Pi 2 Model B, 2 x Pi 3 Model B._ 
+###### _Mein OS: Ich benutze am liebsten das neuste Raspberry Pi OS Lite._

@@ -1,4 +1,4 @@
-## Welcome to my Pi Notes GitHub Pages
+## Welcome to my Pi Notes on GitHub Pages
 
 I currently use this repository for some personal notes I take while exploring some technologies, mostly around Raspberry Pi. Often I write things down in my native language, which is German. In cases where it’s easier I will use English as well. What’s written here are just private notes, not necessarily accurate or true.
 

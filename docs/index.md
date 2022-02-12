@@ -6,4 +6,4 @@ Zur Zeit benutze ich diese Ablage für ein paar persönliche Notizen die ich wä
 
 _Meine Pi's: 1 x Pi Zero, 1 x Pi 1 Model A (256 MB RAM), 2 x Pi 2 Model B, 2 x Pi 3 Model B._
 
-_Meine OS's: Ich benutze am liebsten das neuste Raspberry Pi OS Lite._
+_Mein OS: Ich benutze am liebsten das neuste Raspberry Pi OS Lite._

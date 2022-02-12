@@ -1,7 +1,5 @@
 remote_theme: pages-themes/primer@v0.2.0
 title: [Raspberry Pi Notizen]
 description: [Notizen zu meinen Spielereien mit dem Raspberry Pi]
-
-
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

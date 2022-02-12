@@ -6,6 +6,4 @@ Zur Zeit benutze ich diese Ablage für ein paar persönliche Notizen die ich wä
 
 _Meine Pi's: 1 x Zero, 1 x Pi 1, 2 x Pi 2 Model B, 2 x Pi 3 Model B._
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
